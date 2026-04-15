@@ -1,0 +1,6 @@
+scanpy
+pandas
+numpy
+scipy
+statsmodels
+anndata
