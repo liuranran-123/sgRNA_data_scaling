@@ -1,0 +1,12 @@
+# Python 自动生成的缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook 的临时文件
+.ipynb_checkpoints/
+
+# 操作系统生成的隐藏文件
+.DS_Store
+Thumbs.db
